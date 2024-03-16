@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jtxw1Ne1AvdiU5uf5lJgiXVXKJCQc04+G3w018Gg1dXkP5E7TP3SC0oFVyqXYgDE283w7IxQp5j6sVq6kUbRKw==",
+  "dgSpecHash": "VTsDlp6/t68GLI4IUUme/WCV+SAnnIhuQCfZRdXS5lLEzbYkke2I9aQ9zwEO074a9AzX4DprJB9HolNqbyBeig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oğuzhan\\source\\repos\\EFDbFirst\\EFDbFirst\\EFDbFirst.csproj",
+  "projectFilePath": "C:\\Users\\Oğuzhan\\Documents\\GitHub\\EntityFrameworkDbFirst\\EFDbFirst\\EFDbFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oğuzhan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Oğuzhan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

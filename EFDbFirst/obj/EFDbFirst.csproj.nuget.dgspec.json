@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oğuzhan\\source\\repos\\EFDbFirst\\EFDbFirst\\EFDbFirst.csproj": {}
+    "C:\\Users\\Oğuzhan\\Documents\\GitHub\\EntityFrameworkDbFirst\\EFDbFirst\\EFDbFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oğuzhan\\source\\repos\\EFDbFirst\\EFDbFirst\\EFDbFirst.csproj": {
+    "C:\\Users\\Oğuzhan\\Documents\\GitHub\\EntityFrameworkDbFirst\\EFDbFirst\\EFDbFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuzhan\\source\\repos\\EFDbFirst\\EFDbFirst\\EFDbFirst.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuzhan\\Documents\\GitHub\\EntityFrameworkDbFirst\\EFDbFirst\\EFDbFirst.csproj",
         "projectName": "EFDbFirst",
-        "projectPath": "C:\\Users\\Oğuzhan\\source\\repos\\EFDbFirst\\EFDbFirst\\EFDbFirst.csproj",
+        "projectPath": "C:\\Users\\Oğuzhan\\Documents\\GitHub\\EntityFrameworkDbFirst\\EFDbFirst\\EFDbFirst.csproj",
         "packagesPath": "C:\\Users\\Oğuzhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuzhan\\source\\repos\\EFDbFirst\\EFDbFirst\\obj\\",
+        "outputPath": "C:\\Users\\Oğuzhan\\Documents\\GitHub\\EntityFrameworkDbFirst\\EFDbFirst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oğuzhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
