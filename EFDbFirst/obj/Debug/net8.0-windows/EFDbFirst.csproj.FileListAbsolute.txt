@@ -260,3 +260,4 @@ C:\Users\Oğuzhan\Documents\GitHub\EntityFrameworkDbFirst\EFDbFirst\obj\Debug\ne
 C:\Users\Oğuzhan\Documents\GitHub\EntityFrameworkDbFirst\EFDbFirst\obj\Debug\net8.0-windows\EFDbFirst.pdb
 C:\Users\Oğuzhan\Documents\GitHub\EntityFrameworkDbFirst\EFDbFirst\obj\Debug\net8.0-windows\EFDbFirst.genruntimeconfig.cache
 C:\Users\Oğuzhan\Documents\GitHub\EntityFrameworkDbFirst\EFDbFirst\obj\Debug\net8.0-windows\ref\EFDbFirst.dll
+C:\Users\Oğuzhan\Documents\GitHub\EntityFrameworkDbFirst\EFDbFirst\obj\Debug\net8.0-windows\EFDbFirst.FrmSupplier.resources
