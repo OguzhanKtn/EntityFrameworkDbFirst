@@ -2,9 +2,9 @@ using EFDbFirst.Models;
 
 namespace EFDbFirst
 {
-    public partial class Form1 : Form
+    public partial class FrmFilterProduct : Form
     {
-        public Form1()
+        public FrmFilterProduct()
         {
             InitializeComponent();
         }

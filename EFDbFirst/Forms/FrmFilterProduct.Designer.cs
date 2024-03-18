@@ -1,6 +1,6 @@
 ﻿namespace EFDbFirst
 {
-    partial class Form1
+    partial class FrmFilterProduct
     {
         /// <summary>
         ///  Required designer variable.
